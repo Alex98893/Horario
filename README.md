@@ -1,4 +1,4 @@
-# Horario
+
 |    | Lunes                       | Martes                      | Miercoles                   | Jueves                      | Viernes              |
 |----|-----------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|
 | 10 |      METODOS NUMERICOS      |      METODOS NUMERICOS      |      METODOS NUMERICOS      |      METODOS NUMERICOS      |                      |
